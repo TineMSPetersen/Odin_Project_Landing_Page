@@ -138,3 +138,9 @@ header ul {
     font-weight: bold;
     border-radius: 7px;
 }
+
+footer {
+    padding: 2% 10%;
+    color: #E5E7EB;
+    text-align: center;
+}
