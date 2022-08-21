@@ -20,7 +20,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px;
+    padding: 2% 10%;
 }
 
 header a {
@@ -42,10 +42,16 @@ header ul {
     display: flex;
     padding: 5% 10%;
     gap: 20px;
+    align-content: center;
 }
 
 .hero .left, .hero .right {
     flex: 1;
+}
+
+.hero .left {
+    display: flex;
+    align-items: center;
 }
 
 .hero .right {
