@@ -77,3 +77,20 @@ header ul {
     border-radius: 7px;
     margin: 10px 0;
 }
+
+.info {
+    text-align: center;
+    padding: 2% 0;
+}
+
+.info h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+    padding: 2% 10%;
+}
