@@ -112,3 +112,29 @@ header ul {
     font-weight: bold;
     font-size: 18px;
 }
+
+.cta {
+    background-color: #3882F6;
+    margin: 5% 3%;
+    padding: 3% 7%;
+    border-radius: 14px;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.cta h4 {
+    font-weight: bold;
+}
+
+.cta button {
+    background-color: transparent;
+    border: 2px solid #F9FAF8;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 22px;
+    color: #F9FAF8;
+    font-weight: bold;
+    border-radius: 7px;
+}
